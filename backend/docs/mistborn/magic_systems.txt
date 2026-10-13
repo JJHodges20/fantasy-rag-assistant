@@ -1,0 +1,235 @@
+TITLE: Mistborn — Allomancy, Feruchemy, and Hemalurgy
+SERIES: Mistborn
+COVERAGE: Mistborn Era One, Mistborn Era Two, and relevant Cosmere magic-system revelations
+SPOILER LEVEL: FULL
+CANON BASIS: Brandon Sanderson's published Mistborn fiction and established Metallic Arts descriptions
+
+OVERVIEW
+
+Magic on Scadrial is primarily expressed through three interconnected systems known as the Metallic Arts: Allomancy, Feruchemy, and Hemalurgy.
+
+Each system uses specific metals as a means of accessing or transferring supernatural abilities. Despite their shared materials, the three systems function differently.
+
+Allomancy draws power from an external source. Feruchemy stores an individual's own attributes for later use. Hemalurgy transfers abilities by taking Investiture or attributes from another being.
+
+All three are connected to the divine powers Preservation and Ruin, whose influence shapes Scadrial's magical laws.
+
+ALLOMANCY
+
+Allomancy allows certain people to consume and metabolically burn specific metals to produce supernatural effects.
+
+The metal itself acts as a key or catalyst, allowing the Allomancer to access magical power.
+
+A person capable of burning every standard Allomantic metal is called a Mistborn.
+
+A person who can burn only one standard Allomantic metal is called a Misting.
+
+Allomantic abilities are generally inherited, although unusual sources of power can create or modify them.
+
+Allomancy is described as an end-positive system because the energy powering its effects comes from an external source associated with Preservation.
+
+PHYSICAL ALLOMANTIC METALS
+
+Iron allows an Allomancer to Pull on nearby metal objects.
+
+Steel allows an Allomancer to Push on nearby metal objects.
+
+These abilities are influenced by the user's position, the mass of objects, and the forces involved. Skilled Allomancers can use metal objects to move through the environment or manipulate weapons.
+
+Tin enhances the user's physical senses, including sight, hearing, smell, taste, and touch.
+
+Pewter enhances strength, endurance, balance, and physical resilience. It allows Allomancers to perform extraordinary physical feats and endure injuries that would incapacitate an ordinary person.
+
+MENTAL ALLOMANTIC METALS
+
+Zinc allows an Allomancer to Riot emotions, increasing or intensifying feelings in another person.
+
+Brass allows an Allomancer to Soothe emotions, reducing their intensity.
+
+Neither metal directly gives its user unrestricted control over another person's thoughts. Their influence can nevertheless be used to manipulate decisions and behavior.
+
+Copper creates a protective effect commonly called a coppercloud, which conceals nearby Allomantic activity from ordinary bronze-based detection.
+
+Bronze allows an Allomancer to detect pulses associated with nearby Allomantic activity.
+
+TEMPORAL ALLOMANTIC METALS
+
+Gold allows an Allomancer to perceive alternative versions of themselves associated with different life choices.
+
+Electrum allows an Allomancer to perceive possible versions of their own immediate future, making them harder for opponents using future-sight abilities to predict.
+
+Cadmium creates an area in which time passes more slowly relative to the outside world.
+
+Bendalloy creates an area in which time passes more quickly relative to the outside world.
+
+These temporal abilities become especially important during Era Two, when advanced technology and firearms interact with Allomantic combat.
+
+ENHANCEMENT ALLOMANTIC METALS
+
+Aluminum removes an Allomancer's available reserves of other Allomantic metals when burned.
+
+Duralumin allows an Allomancer to consume their reserves of other actively burned metals in a rapid burst, temporarily intensifying those metals' effects.
+
+Chromium allows an Allomancer to drain another person's Allomantic metal reserves through touch.
+
+Nicrosil allows an Allomancer to dramatically intensify another Allomancer's active metal-burning effects through touch.
+
+ATIUM AND LERASIUM
+
+Atium is a god metal associated with Ruin. In the original trilogy, the substance commonly called atium allows its user to perceive the immediate future movements of others, providing a powerful advantage in combat.
+
+Later Cosmere explanations distinguish pure atium from the atium alloy commonly used during the Final Empire. The terminology and mechanics should therefore be interpreted according to the relevant era and source.
+
+Lerasium is a god metal associated with Preservation.
+
+Burning lerasium can grant Allomantic powers, including transforming an ordinary person into a Mistborn.
+
+Elend Venture becomes a Mistborn after consuming lerasium near the Well of Ascension.
+
+FERUCHEMY
+
+Feruchemy allows a practitioner to store personal attributes inside specially prepared metal objects called metalminds.
+
+The stored attributes can later be retrieved, or tapped, by the person who created the storage.
+
+Unlike Allomancy, Feruchemy does not normally obtain additional power from an external source. Instead, the user temporarily reduces an attribute in order to save it for future use.
+
+For example, a Feruchemist storing physical strength becomes weaker during storage but can later tap the stored strength to become temporarily stronger.
+
+Feruchemy is commonly described as an end-neutral system because its user is shifting personal resources across time rather than gaining power from nothing.
+
+FULL FERUCHEMISTS AND FERRINGS
+
+A full Feruchemist can use all standard Feruchemical metals.
+
+During Era One, Feruchemy is strongly associated with the Terris people.
+
+Sazed is a full Feruchemist who stores extensive historical and religious knowledge.
+
+By Era Two, Feruchemy has become genetically dispersed through the population.
+
+Many practitioners are Ferrings, individuals able to use only one Feruchemical metal.
+
+FERUCHEMICAL METALS AND ATTRIBUTES
+
+Iron stores physical weight, allowing the user to become lighter while storing and heavier while tapping.
+
+Steel stores physical speed, allowing a person to move extraordinarily quickly when tapping sufficiently large reserves.
+
+Pewter stores physical strength.
+
+Tin stores sensory perception.
+
+Gold stores health, permitting accelerated healing when stored health is tapped.
+
+Zinc stores mental speed, affecting the rate at which a person thinks.
+
+Brass stores warmth, which can be useful for surviving extreme temperatures.
+
+Copper stores memories. A Feruchemist can transfer memories into a coppermind and retrieve them later.
+
+Bronze stores wakefulness, allowing the user to remain alert after previously spending time storing the attribute.
+
+Additional metals allow the storage of attributes such as breath, nutrition, Identity, Connection, and other specialized properties.
+
+The type of attribute stored depends on the metal used.
+
+METALMINDS AND THEIR LIMITATIONS
+
+A metalmind is a piece of metal holding a Feruchemical charge.
+
+Metalminds generally belong to the person who created them. Other individuals ordinarily cannot access those attributes because the stored power is associated with the original user's Identity.
+
+Feruchemy requires planning because a person must store attributes before using them.
+
+Tapping an attribute at an unusually high rate can also reduce efficiency, meaning a large short-term increase may consume more stored power than a slower use.
+
+COMPOUNDING
+
+Compounding occurs when an individual possesses both the Allomantic and Feruchemical abilities associated with the same metal.
+
+By burning a personally charged metalmind Allomantically, the user can obtain a dramatically amplified supply of the stored Feruchemical attribute.
+
+This allows Compounding to overcome many of the normal limitations of Feruchemy.
+
+The Lord Ruler used Compounding, particularly involving atium and the storage of youth, to extend his life for approximately one thousand years.
+
+In Era Two, Miles Dagouter, also called Miles Hundredlives, uses gold Compounding to obtain extraordinary healing abilities.
+
+Compounding requires an appropriate combination of powers and is not available to every Allomancer or Feruchemist.
+
+TWINBORN
+
+A Twinborn is a person who possesses one Allomantic ability and one Feruchemical ability.
+
+The two abilities may involve different metals.
+
+Waxillium Ladrian is a Twinborn who can Push on metals using steel Allomancy and store physical weight using iron Feruchemy.
+
+Wayne is a Twinborn who uses bendalloy Allomancy to create speed bubbles and gold Feruchemy to store health.
+
+When a Twinborn possesses matching Allomantic and Feruchemical metals, Compounding may become possible.
+
+HEMALURGY
+
+Hemalurgy is a magical system associated with Ruin.
+
+It transfers supernatural abilities or other attributes through specially prepared metal spikes.
+
+A Hemalurgic spike is charged by taking a portion of a person's spiritual attributes or Investiture, often through a violent process that kills or seriously harms the donor.
+
+The spike must then be placed into another person at an appropriate location to grant the transferred ability.
+
+The metal used and the placement of the spike determine which attributes can be transferred.
+
+Hemalurgy is considered an end-negative system because some of the original power is lost during the transfer.
+
+HEMALURGIC CONSTRUCTS
+
+The Lord Ruler used Hemalurgy to create or maintain several powerful classes of servants.
+
+Steel Inquisitors are humans transformed through the implantation of multiple spikes. They gain extraordinary abilities but become vulnerable to influence from powerful entities such as Ruin.
+
+Koloss were originally created through Hemalurgic transformations of human beings. Their altered bodies and violent behavior made them effective military forces.
+
+Kandra are intelligent shapeshifters descended from mistwraiths. Hemalurgic spikes called Blessings grant them sentience and particular abilities.
+
+Hemalurgy can allow individuals to obtain powers that they did not inherit naturally.
+
+However, acquiring powers through spikes can expose users to external influence or manipulation.
+
+UNSEALED METALMINDS AND ERA TWO TECHNOLOGY
+
+By Era Two, the people of Southern Scadrial have developed technologies based on specialized applications of the Metallic Arts.
+
+Unsealed metalminds can allow individuals who are not naturally Feruchemists to access certain stored powers.
+
+These devices are often called medallions.
+
+Some medallions provide abilities such as accessing stored warmth, making them essential for the survival of Southern Scadrian populations.
+
+The Bands of Mourning are an extraordinary collection of metalminds capable of granting access to a wide range of magical abilities.
+
+Their historical connection is to the Sovereign of Southern Scadrial, revealed to be Kelsier, rather than Rashek.
+
+INVESTITURE AND THE COSMERE
+
+Allomancy, Feruchemy, and Hemalurgy are manifestations of Investiture, the underlying supernatural power found throughout the Cosmere.
+
+The Metallic Arts share conceptual connections with other magical systems, although their rules and applications are distinctive.
+
+Later Mistborn novels reveal interactions with offworld entities, unfamiliar forms of Investiture, and technologies that combine different magical principles.
+
+These revelations broaden the possibilities of the Metallic Arts without removing their established limitations.
+
+CANON NOTES AND LIMITATIONS
+
+This document describes the principal functions of the Metallic Arts but does not attempt to catalog every possible alloy, god-metal interaction, or experimental application.
+
+The original trilogy's presentation of atium differs in terminology from later cosmere-wide explanations. Questions about atium should specify the context when necessary.
+
+Compounding is not the same as simply possessing two different magical abilities.
+
+Hemalurgy is not equivalent to ordinary hereditary magic, and its use carries important costs.
+
+Some advanced interactions involving Identity, Connection, unsealed metalminds, and experimental Investiture remain subjects of continued discovery within the fictional setting.
